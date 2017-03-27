@@ -11,8 +11,6 @@ The files involved are
 6. HW1.pdf
 
 
-To compile:
-
 To run the program, execute the Learner.py using python v3.5:
 
 python Learner.py 
